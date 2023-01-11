@@ -121,3 +121,4 @@
 
 ## Event Storming 결과
 
+![EventStoming](https://user-images.githubusercontent.com/32892092/211815354-f8cb8480-bf56-480e-a82d-27d2885bd601.PNG)
