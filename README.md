@@ -125,6 +125,8 @@
 
 ## 1. Saga (Pub / Sub)
 
+![OrderPlaced](https://user-images.githubusercontent.com/32892092/212131393-bc59c3d0-af1d-4b9f-9f60-f9f3c41638d3.png)
+![Reject](https://user-images.githubusercontent.com/32892092/212131403-e344a169-4da9-4ffa-92a6-ccd5cf3c1350.PNG)
 
 
 ## 2. CQRS
