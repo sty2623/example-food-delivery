@@ -122,3 +122,16 @@
 ## Event Storming 결과
 
 ![EventStoming](https://user-images.githubusercontent.com/32892092/211815354-f8cb8480-bf56-480e-a82d-27d2885bd601.PNG)
+
+## 1. Saga (Pub / Sub)
+
+
+
+## 2. CQRS
+
+![CQRS](https://user-images.githubusercontent.com/32892092/212127955-13a41d1f-e8c6-489a-b663-840f2ec88bf3.PNG)
+
+
+## 3. Compensation / Correlation
+
+![Compensation](https://user-images.githubusercontent.com/32892092/212127992-ae2e89e9-2b43-4684-81bb-9bf0f2556390.PNG)
