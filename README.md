@@ -137,5 +137,6 @@
 
 ## 3. Compensation / Correlation
 
-![Compensation](https://user-images.githubusercontent.com/32892092/212133200-a1adcf90-52d0-45a7-be04-9c252ffe8805.PNG)
+![Compensation](https://user-images.githubusercontent.com/32892092/212134036-557487d6-1046-459e-b25a-da8fe3707a79.PNG)
+
 
