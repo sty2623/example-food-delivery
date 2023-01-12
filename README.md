@@ -132,8 +132,9 @@
 ## 2. CQRS
 
 ![CQRS](https://user-images.githubusercontent.com/32892092/212127955-13a41d1f-e8c6-489a-b663-840f2ec88bf3.PNG)
+![CQRS2](https://user-images.githubusercontent.com/32892092/212132958-61084673-a198-40a6-bb93-a94511b15caa.PNG)
 
 
 ## 3. Compensation / Correlation
 
-![Compensation](https://user-images.githubusercontent.com/32892092/212127992-ae2e89e9-2b43-4684-81bb-9bf0f2556390.PNG)
+![Compensation](https://user-images.githubusercontent.com/32892092/212132972-31a2238a-dfa6-4544-9ab6-0f1ee1cbca16.PNG)
